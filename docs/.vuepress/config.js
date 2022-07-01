@@ -1,5 +1,4 @@
 module.exports = {
-    base: "/TANG/",
     themeConfig: {
         lastUpdated: '更新时间',
         logo: '/assets/img/qiao.jpeg',
